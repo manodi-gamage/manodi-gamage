@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m currently working on projects that focus on data analysis and back-end development, with a strong interest in Python scripting and SQL. <br>I'm looking to collaborate on data-driven projects and those that explore practical solutions to real-world problems.<br> Right now, I'm sharpening my skills in Python, database management, and data visualization techniques. <br>I’m also interested in learning more about statistical analysis and improving my coding efficiency. <br>My goal is to contribute to projects that use analysis to drive meaningful insights and solutions.
+Enthusiastic IT undergraduate with a strong focus on UI/UX design, web development, and software engineering. Passionate about 
+crafting intuitive, user-friendly interfaces and developing responsive, efficient web solutions. Skilled in problem-solving, team
+collaboration, and applying design and engineering principles to deliver seamless user experiences. Committed to continuous learning 
+and staying current with the latest technologies and trends to enhance both design and development processe.
 
 
 ## 🌐 Socials:
